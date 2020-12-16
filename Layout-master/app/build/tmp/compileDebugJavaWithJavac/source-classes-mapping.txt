@@ -1,0 +1,8 @@
+com/example/experiment_3/BuildConfig.java
+ com.example.experiment_3.BuildConfig
+com/example/experiment_3/MainActivity.java
+ com.example.experiment_3.MainActivity
+ com.example.experiment_3.MainActivity$1
+ com.example.experiment_3.MainActivity$2
+ com.example.experiment_3.MainActivity$3
+ com.example.experiment_3.MainActivity$4

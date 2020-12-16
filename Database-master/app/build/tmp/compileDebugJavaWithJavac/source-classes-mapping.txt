@@ -1,0 +1,6 @@
+com/example/ex4/BuildConfig.java
+ com.example.ex4.BuildConfig
+com/example/ex4/DBHelper.java
+ com.example.ex4.DBHelper
+com/example/ex4/MainActivity.java
+ com.example.ex4.MainActivity
